@@ -1,0 +1,20 @@
+body{
+    background-image:url(kerala.jpg);
+    background-attachment:fixed;
+    background-size:cover;
+    background-position:relative;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    color: black;
+    font-style: italic;
+    display:flex;
+    /* this centers the text horizontally*/
+    justify-content: center;
+    /* this centers the text vertically*/
+    align-items: center;
+    height: 200px;
+    }
